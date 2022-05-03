@@ -1,5 +1,7 @@
 # CrudJson
 
+A simple api built in elixir from scratch. It creates, read, update and delete users from a postgresql database.
+
 To start your Phoenix server:
 
   * Install dependencies with `mix deps.get`
